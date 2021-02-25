@@ -1,22 +1,23 @@
 # Flask-Blog
 
-pip install flask,
+pip install flask
 
-pip install Flask-wtf,
+pip install Flask-wtf
 
-pip install flask-sqlalchemy,
+pip install flask-sqlalchemy
 
-pip install flask-bcrypt,
-python -m pip install --upgrade pip	// to update pip,
+pip install flask-bcrypt
 
-python -m pip install --no-use-pep517 bcrypt // if bcrypt show error,
+python -m pip install --upgrade pip	// to update pip
 
-pip install flask-login,
+python -m pip install --no-use-pep517 bcrypt // if bcrypt show error
 
-pip install email_validator,
+pip install flask-login
 
-pip install Pillow,
+pip install email_validator
 
-pip install flask-mail,
+pip install Pillow
 
-pip install flask-serialize,
+pip install flask-mail
+
+pip install flask-serialize
