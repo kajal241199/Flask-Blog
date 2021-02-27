@@ -23,6 +23,10 @@ fblog\Scripts\activate
 cd fblog
 cd Scripts\activate
 ```
+* **Deactivate the virtual environment**
+```
+deactivate
+```
 * **Installing dependencies in virtual environmnet with pip**
 ```
 pip install flask
