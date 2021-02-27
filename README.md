@@ -7,6 +7,10 @@ Local Installation Guide:
 ```
 git clone https://github.com/kajal241199/Flask-Blog.git
 ```
+* Go to the Working directory
+```
+cd Flask-Blog
+```
 * Install the virtual environment
 ```
 python -m pip install --user virtualenv
