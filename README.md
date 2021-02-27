@@ -3,27 +3,27 @@ Tagline
 ***
 Local Installation Guide:
 ---
-* Clone Repository
+* **Clone Repository**
 ```
 git clone https://github.com/kajal241199/Flask-Blog.git
 ```
-* Go to the Working directory
+* **Go to the Working directory**
 ```
 cd Flask-Blog
 ```
-* Install the virtual environment
+* **Install the virtual environment**
 ```
 python -m pip install --user virtualenv
 python -m virtualenv --help
 ```
-* Activate the virtual environmnet
+* **Activate the virtual environment**
 ```
 fblog\Scripts\activate
 # or 
 cd fblog
 cd Scripts\activate
 ```
-* Installing dependencies in virtual environmnet with pip
+* **Installing dependencies in virtual environmnet with pip**
 ```
 pip install flask
 
