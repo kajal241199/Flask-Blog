@@ -64,6 +64,12 @@ python run.py
 ```
 Registration Page
 <img src="https://user-images.githubusercontent.com/42913243/109532414-1c897c00-7adf-11eb-84bf-40c448a2d543.png" />
+Login Page
+<img src="https://user-images.githubusercontent.com/42913243/109533187-f57f7a00-7adf-11eb-870f-3484dbdf06a6.png" />
+Home Page
+<img src="https://user-images.githubusercontent.com/42913243/109533547-5c049800-7ae0-11eb-8036-e5e330faa8ff.png" />
+
+
 
 
 
