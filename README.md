@@ -1,5 +1,5 @@
 # Flask-Blog
-Tagline
+Flask-Blog is a blog website built using Flask
 ***
 Local Installation Guide:
 ---
