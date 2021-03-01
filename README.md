@@ -70,6 +70,8 @@ Home Page
 <img src="https://user-images.githubusercontent.com/42913243/109533547-5c049800-7ae0-11eb-8036-e5e330faa8ff.png" />
 Account Page for Updating Account Information
 <img src="https://user-images.githubusercontent.com/42913243/109533945-ccabb480-7ae0-11eb-9c4e-7245a689ca81.png" />
+Password Reset Link sent on the individaul's email
+<img src="https://user-images.githubusercontent.com/42913243/109534939-ed283e80-7ae1-11eb-8332-d7d6738cdd63.png" />
 
 
 
