@@ -68,6 +68,8 @@ Login Page
 <img src="https://user-images.githubusercontent.com/42913243/109533187-f57f7a00-7adf-11eb-870f-3484dbdf06a6.png" />
 Home Page
 <img src="https://user-images.githubusercontent.com/42913243/109533547-5c049800-7ae0-11eb-8036-e5e330faa8ff.png" />
+Account Page for Updating Account Information
+<img src="https://user-images.githubusercontent.com/42913243/109533945-ccabb480-7ae0-11eb-9c4e-7245a689ca81.png" />
 
 
 
