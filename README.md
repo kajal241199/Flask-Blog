@@ -63,7 +63,7 @@ python
 python run.py
 ```
 Registration Page
-<img src="https://user-images.githubusercontent.com/42913243/109532414-1c897c00-7adf-11eb-84bf-40c448a2d543.png />
+<img src="https://user-images.githubusercontent.com/42913243/109532414-1c897c00-7adf-11eb-84bf-40c448a2d543.png" />
 
 
 
