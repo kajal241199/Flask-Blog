@@ -72,8 +72,12 @@ Account Page for Updating Account Information
 <img src="https://user-images.githubusercontent.com/42913243/109533945-ccabb480-7ae0-11eb-9c4e-7245a689ca81.png" />
 Password Reset Link sent on the individaul's email
 <img src="https://user-images.githubusercontent.com/42913243/109534939-ed283e80-7ae1-11eb-8332-d7d6738cdd63.png" />
-
-
+Reset Password Page
+<img src="https://user-images.githubusercontent.com/42913243/109535351-7b042980-7ae2-11eb-829b-4be3e11d0afa.png" />
+User is now able to login with the updated password
+<img src="https://user-images.githubusercontent.com/42913243/109535675-d7674900-7ae2-11eb-84e8-bce93d36ca0b.png)" />
+Page for adding New Post
+<img src="https://user-images.githubusercontent.com/42913243/109535901-1a292100-7ae3-11eb-9188-4880613a8f7f.png" />
 
 
 
