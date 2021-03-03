@@ -43,7 +43,7 @@ python
 >> exit()
 ```
 ## Set Username and password 
-**Set Username and password for sending link to change password**
+* **Set Username and password for sending link to change password**
 ```bash
  1. Go in search and write enviroment varible and click on edit the system envrioment varible
  2. Now got to Enviroment varible option
