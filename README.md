@@ -27,6 +27,10 @@ cd Scripts\activate
 ```
 pip install -r requirements.txt
 ```
+* **To list the installed packages**
+```
+pip freeze
+```
 * **Deactivate the virtual environment**
 ```
 deactivate
