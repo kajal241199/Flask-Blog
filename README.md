@@ -42,6 +42,15 @@ python
 >> db.create_all()
 >> exit()
 ```
+## Set Username and password 
+**Set Username and password for sending link to change password**
+```bash
+ 1. Go in search and write enviroment varible and click on edit the system envrioment varible
+ 2. Now got to Enviroment varible option
+ 3. now set two system varible:-
+   a. EMAIL_USER as varible name and <a valid gmail id> as varible value
+   b. EMAIL_PASSWORD as varible name and <a valid gmail password> as varible value
+ ```
 # Run Project Locally in virtual Environment
 ```
 python run.py
