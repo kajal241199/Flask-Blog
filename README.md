@@ -23,6 +23,10 @@ fblog\Scripts\activate
 cd fblog
 cd Scripts\activate
 ```
+* **Install the dependencies**
+```
+pip install -r requirements.txt
+```
 * **Deactivate the virtual environment**
 ```
 deactivate
